@@ -1,0 +1,56 @@
+/* 
+  Localizable.strings
+  Template
+
+  Created by Avadh on 29/06/22.
+  
+*/
+"Add / Remove" = "Add / Remove";
+"Are you sure you want to delete your account?" = "Are you sure you want to delete your account?";
+"Are you sure you want to logout?" = "Are you sure you want to logout?";
+"Box Statues" = "Box Statues";
+"Business User or Admin" = "Business User or Admin";
+"Change Default" = "Change Default";
+"Change Password" = "Change Password";
+"Change password" = "Change password";
+"Client of a Business" = "Client of a Business";
+"Confirm" = "Confirm";
+"Current Password" = "Current Password";
+"Delete Account" = "Delete Account";
+"Email" = "Email";
+"Got it" = "Got it";
+"Hey! This email is not register yet. Please try with another one." = "Hey! This email is not register yet. Please try with another one.";
+"Input New Password" = "Input New Password";
+"Invalid Name!" = "Invalid Name!";
+"Invalid email!" = "Invalid email!";
+"Logout" = "Logout";
+"Method not found!" = "Method not found!";
+"My Spaces" = "My Spaces";
+"Name" = "Name";
+"New Password" = "New Password";
+"No" = "No";
+"Other" = "Other";
+"Password" = "Password";
+"Password must be in minimum 6 characters, at least 1 Alphabet, 1 Number and 1 special character" = "Password must be in minimum 6 characters, at least 1 Alphabet, 1 Number and 1 special character";
+"Personal / Family User" = "Personal / Family User";
+"Please create a new secure password" = "Please create a new secure password";
+"Please enter accesscode!" = "Please enter accesscode!";
+"Please enter all valid field" = "Please enter all valid field";
+"Please enter email!" = "Please enter email!";
+"Please enter name!" = "Please enter name!";
+"Please enter password!" = "Please enter password!";
+"Please enter valid email or password" = "Please enter valid email or password";
+"Please enter valid password. Password must be in minimum 6 characters, at least 1 Alphabet, 1 Number and 1 special character" = "Please enter valid password. Password must be in minimum 6 characters, at least 1 Alphabet, 1 Number and 1 special character";
+"Save" = "Save";
+"Search space, zone, box.." = "Search space, zone, box..";
+"Setting" = "Setting";
+"Space" = "Space";
+"Subscription" = "Subscription";
+"Task" = "Task";
+"This email address already exists. Please use another one!" = "This email address already exists. Please use another one!";
+"User" = "User";
+"User Exist!" = "User Exist!";
+"User not exists" = "User not exists";
+"Version" = "Version";
+"Yes" = "Yes";
+"Your Account" = "Your Account";

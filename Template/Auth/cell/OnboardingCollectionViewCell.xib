@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" reuseIdentifier="OnboardingCollectionViewCell" id="gTV-IL-0wX" customClass="OnboardingCollectionViewCell" customModule="_D_Storage" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="411" height="680"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="411" height="680"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gaA-G3-w5u">
+                        <rect key="frame" x="0.0" y="0.0" width="411" height="680"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" insetsLayoutMarginsFromSafeArea="NO" image="onboarding" translatesAutoresizingMaskIntoConstraints="NO" id="kWm-ZM-9cF">
+                                <rect key="frame" x="0.0" y="0.0" width="411" height="472"/>
+                            </imageView>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" insetsLayoutMarginsFromSafeArea="NO" text="Organize Your Storage" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="G75-be-03i">
+                                <rect key="frame" x="20" y="542.5" width="371" height="29"/>
+                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="24"/>
+                                <color key="textColor" name="MainTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" insetsLayoutMarginsFromSafeArea="NO" text="Manage your storage space quickly and easily." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BQH-QO-vpw">
+                                <rect key="frame" x="80.5" y="581.5" width="250" height="38.5"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="250" id="25J-AF-rVe"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                <color key="textColor" name="MainTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <constraints>
+                            <constraint firstItem="kWm-ZM-9cF" firstAttribute="leading" secondItem="gaA-G3-w5u" secondAttribute="leading" id="Oip-h2-V4L"/>
+                            <constraint firstItem="BQH-QO-vpw" firstAttribute="centerX" secondItem="G75-be-03i" secondAttribute="centerX" id="S6u-nc-lMT"/>
+                            <constraint firstItem="kWm-ZM-9cF" firstAttribute="height" secondItem="gaA-G3-w5u" secondAttribute="height" multiplier="0.694118" id="WSt-gi-bCh"/>
+                            <constraint firstItem="G75-be-03i" firstAttribute="leading" secondItem="gaA-G3-w5u" secondAttribute="leading" constant="20" id="XDP-9P-eE7"/>
+                            <constraint firstAttribute="bottom" secondItem="BQH-QO-vpw" secondAttribute="bottom" constant="60" id="YRv-T4-oYw"/>
+                            <constraint firstAttribute="trailing" secondItem="G75-be-03i" secondAttribute="trailing" constant="20" id="j7G-7o-i4T"/>
+                            <constraint firstItem="kWm-ZM-9cF" firstAttribute="top" secondItem="gaA-G3-w5u" secondAttribute="top" id="kTm-gg-nej"/>
+                            <constraint firstAttribute="trailing" secondItem="kWm-ZM-9cF" secondAttribute="trailing" id="wmZ-zM-A9k"/>
+                            <constraint firstItem="BQH-QO-vpw" firstAttribute="top" secondItem="G75-be-03i" secondAttribute="bottom" constant="10" id="xO8-MB-cOr"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstItem="gaA-G3-w5u" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="ObB-B0-RYX"/>
+                <constraint firstAttribute="trailing" secondItem="gaA-G3-w5u" secondAttribute="trailing" id="Oce-ND-6zJ"/>
+                <constraint firstItem="gaA-G3-w5u" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="RkT-k8-xof"/>
+                <constraint firstAttribute="bottom" secondItem="gaA-G3-w5u" secondAttribute="bottom" id="TI3-sM-Nxi"/>
+            </constraints>
+            <size key="customSize" width="420" height="672"/>
+            <connections>
+                <outlet property="lblTitle" destination="G75-be-03i" id="pS1-5F-0ql"/>
+            </connections>
+            <point key="canvasLocation" x="158.69565217391306" y="147.32142857142856"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="onboarding" width="375" height="472"/>
+        <namedColor name="MainTextColor">
+            <color red="0.086000002920627594" green="0.086000002920627594" blue="0.22400000691413879" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>

@@ -1,0 +1,93 @@
+
+/* Class = "UILabel"; text = "Log into your account"; ObjectID = "14G-rB-ZTx"; */
+"14G-rB-ZTx.text" = "Log into your account";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "26k-9n-OpW"; */
+"26k-9n-OpW.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Create an account"; ObjectID = "3Se-Af-PEF"; */
+"3Se-Af-PEF.text" = "Create an account";
+
+/* Class = "UIButton"; normalTitle = "Resend Code"; ObjectID = "4vU-tU-HeG"; */
+"4vU-tU-HeG.normalTitle" = "Resend Code";
+
+/* Class = "UILabel"; text = "Enter the email you used when creating your account to get a confirmation code"; ObjectID = "5AY-Cp-Lix"; */
+"5AY-Cp-Lix.text" = "Enter the email you used when creating your account to get a confirmation code";
+
+/* Class = "UIButton"; normalTitle = "Get Started"; ObjectID = "63n-fx-Ppr"; */
+"63n-fx-Ppr.normalTitle" = "Get Started";
+
+/* Class = "UILabel"; text = "Welcome back"; ObjectID = "DKa-Qn-7Oj"; */
+"DKa-Qn-7Oj.text" = "Welcome back";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "EG6-R6-Gpo"; */
+"EG6-R6-Gpo.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password"; ObjectID = "ISA-qU-A1o"; */
+"ISA-qU-A1o.normalTitle" = "Forgot Password";
+
+/* Class = "UIButton"; normalTitle = "Got it"; ObjectID = "J5o-O9-dpY"; */
+"J5o-O9-dpY.normalTitle" = "Got it";
+
+/* Class = "UILabel"; text = "Enter your mail"; ObjectID = "Lud-go-E0m"; */
+"Lud-go-E0m.text" = "Enter your mail";
+
+/* Class = "UILabel"; text = "Check your mail"; ObjectID = "MTJ-VD-hR3"; */
+"MTJ-VD-hR3.text" = "Check your mail";
+
+/* Class = "UILabel"; text = "Enter 4-digit code we sent to\nyourmail@gmail.com"; ObjectID = "Mw4-rF-7aF"; */
+"Mw4-rF-7aF.text" = "Enter 4-digit code we sent to\nyourmail@gmail.com";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NRn-oc-NLa"; */
+"NRn-oc-NLa.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QbW-st-NIj"; */
+"QbW-st-NIj.text" = "Label";
+
+/* Class = "UILabel"; text = "Choose User Type"; ObjectID = "SVi-vK-Yur"; */
+"SVi-vK-Yur.text" = "Choose User Type";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "TQF-3q-FQq"; */
+"TQF-3q-FQq.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WXJ-Kt-I5c"; */
+"WXJ-Kt-I5c.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Access Code"; ObjectID = "XsJ-A2-eSR"; */
+"XsJ-A2-eSR.placeholder" = "Access Code";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Xwf-BE-Zpk"; */
+"Xwf-BE-Zpk.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "dOK-94-tNL"; */
+"dOK-94-tNL.normalTitle" = "Next";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "gb7-X1-oQT"; */
+"gb7-X1-oQT.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Your Name"; ObjectID = "hAc-V1-94F"; */
+"hAc-V1-94F.placeholder" = "Your Name";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "hxW-QX-c76"; */
+"hxW-QX-c76.normalTitle" = "Sign In";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "i5m-oe-uyZ"; */
+"i5m-oe-uyZ.text" = "Label";
+
+/* Class = "UILabel"; text = "Personal / Family User"; ObjectID = "j5v-1o-iZ1"; */
+"j5v-1o-iZ1.text" = "Personal / Family User";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jCI-sE-U8z"; */
+"jCI-sE-U8z.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "kCn-dD-p8m"; */
+"kCn-dD-p8m.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "q2p-Iz-IEO"; */
+"q2p-Iz-IEO.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "s4R-uC-X1C"; */
+"s4R-uC-X1C.normalTitle" = "Sign Up";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tWC-wl-ErP"; */
+"tWC-wl-ErP.text" = "Label";
